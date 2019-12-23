@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">guessing</string>
+    <string name="number">number</string>
+    <string name="counter">counter</string>
+    <string name="startMsg">Guess a number</string>
+    <string name="tryAgin">ohh wrong! Try again!</string>
+    <string name="lostgame">You Lost</string>
+    <string name="nextLevel">You guess correct - Next level</string>
+    <string name="level1">Level 1 - Guess a number between 1- 10 </string>
+    <string name="level2">Level 2 - Guess a number between 1- 10 </string>
+
+    <string name="guess">Guess</string>
+</resources>
